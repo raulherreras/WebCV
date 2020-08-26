@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 32px;
+    background: linen;
+}
+
+header {
+    text-align: center;
+    overflow: auto;
+}
+
+h3 {
+    color: darkslategray;
+}
+
+main {
+    overflow: auto;
+}
+
+#img_left {
+    float: left;
+    padding: 30px;
+}
+
+.indent {
+    margin-left: 40px;
+}
+
+footer {
+    clear: both;
+    border: 1px solid salmon;
+}
